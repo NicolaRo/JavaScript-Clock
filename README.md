@@ -1,6 +1,6 @@
 # 🕒 JavaScript Clock
 
-A simple, real-time analog and digital clock built with HTML, CSS, and JavaScript.  
+A simple, real-time analog clock built with HTML, CSS, and JavaScript.  
 Created as part of my Full-Stack Development Master Program while following a guided tutorial.
 
 ## 📌 About the Project
@@ -16,13 +16,14 @@ The goal was to reproduce a working, animated clock that shows both analog and d
 
 ## 🎯 Purpose
 
-As an aspiring full-stack developer, I’m currently building a series of projects to solidify both my front-end and back-end skills. This clock project represents a small but important step in my journey toward becoming proficient in interactive UI development and clean code practices.
+As an aspiring full-stack developer, I’m currently building a series of projects to solidify both my front-end and back-end skills.
+This clock project represents a small but important step in my journey toward becoming proficient in interactive UI development and clean code practices.
 
 ## 🔧 Technologies Used
 
 - HTML5
 - CSS3 (Flexbox, Transforms)
-- Vanilla JavaScript (ES6)
+- JavaScript
 
 ## 🚀 Features
 
@@ -39,7 +40,8 @@ As an aspiring full-stack developer, I’m currently building a series of projec
 
 ## 🙋‍♂️ About Me
 
-I’m a full-stack developer in training, passionate about clean, accessible, and functional design. I’m currently building a portfolio of small but purposeful projects like this one to demonstrate my learning journey.
+I’m a full-stack developer in training, passionate about clean, accessible, and functional design. 
+I’m currently building a portfolio of small but purposeful projects like this one to demonstrate my learning journey.
 
 Feel free to connect or explore more on my [GitHub](https://github.com/NicolaRo) or [Portfolio](https://NicolaRo.github.io).
 
