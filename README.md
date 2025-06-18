@@ -7,7 +7,7 @@ Created as part of my Full-Stack Development Master Program while following a gu
 
 This project was developed as an exercise to strengthen my foundational front-end development skills. It helped me reinforce my understanding of:
 
-- DOM manipulation in vanilla JavaScript
+- DOM manipulation in JavaScript
 - CSS transformations and animations
 - Real-time JavaScript functions using `setInterval`
 - Structuring clean and readable code
